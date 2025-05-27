@@ -132,8 +132,8 @@ To simulate measles outbreak dynamics at an individual level, incorporating stoc
   NYC Department of Health and Mental Hygiene
 
 - **Model Structuring Support**:  
-  Rebecca Conley, Data Scientist  
-  Steffen Helmer, Director, Data Unit
+  Rebecca Goldberg, Data Scientist  
+  Steffen Foerster, Director, Data Unit
 
 ---
 
